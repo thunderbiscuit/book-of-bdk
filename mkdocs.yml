@@ -7,7 +7,7 @@ plugins:
 
 theme:
   name: material
-  logo: assets/favicon.ico
+  logo: assets/logo.png
   icon:
     repo: fontawesome/brands/github
   favicon: assets/favicon.ico
